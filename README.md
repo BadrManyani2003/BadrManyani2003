@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 ! My name is MANYANI BADR<br><br>Full-Stack Developer , 3D house design , logo designer.</h2>
+<h2 align="center">Hi 👋 ! My name is MANYANI BADR <br> <br> Full-Stack Developer , 3D house design , logo designer.</h2>
 
 ###
 
