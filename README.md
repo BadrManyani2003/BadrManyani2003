@@ -20,7 +20,7 @@ const badr = {
     expertise: ["Web Development", "3D Modeling", "Brand Design"],
     currentFocus: "Building next-gen web experiences",
     philosophy: "Code is poetry, design is storytelling",
-    funFact: "I dream in React components and wake up with design ideas"
+    funFact: "I dream in components and wake up with design ideas"
 };
 ```
 
