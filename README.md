@@ -15,7 +15,7 @@
 ## 🎯 What I Do
 
 ```typescript
-const manyani = {
+const badr = {
     role: "Full-Stack Developer & Creative Technologist",
     expertise: ["Web Development", "3D Modeling", "Brand Design"],
     currentFocus: "Building next-gen web experiences",
