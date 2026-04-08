@@ -43,7 +43,6 @@ const manyaniProfile = {
 
 ### 🎨 Design & Creative Tools
 <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" height="50" alt="Design Tools"/>
-<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="50" height="50" alt="Canva"/>
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=linux,digitalocean,redis" height="50" alt="Cloud & DevOps"/>
