@@ -20,10 +20,10 @@ const manyaniProfile = {
     passion: "Transforming ideas into digital reality",
     expertise: {
         development: ["Web Applications", "API Design", "Database Architecture"],
-        design: ["3D House Modeling", "Logo Creation", "Brand Identity"],
+        design: ["Logo Creation", "Brand Identity"],
         philosophy: "Clean code meets beautiful design"
     },
-    currentFocus: "Building scalable web solutions & stunning 3D visualizations",
+    currentFocus: "Building scalable web solutions",
     availability: "Open to exciting projects and collaborations"
 };
 ```
